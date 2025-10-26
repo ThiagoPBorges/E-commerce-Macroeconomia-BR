@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files
+*.csv
+*.db
+*.sqlite3
+
+# Power BI files
+*.pbix
+
+# Excel files
+*.xlsx
